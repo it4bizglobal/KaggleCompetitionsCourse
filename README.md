@@ -43,6 +43,12 @@ https://www.dataquest.io/course/kaggle-competitions<BR>
 Kaggle in Class<BR>
 https://inclass.kaggle.com/<BR>
 
+The caret Package<BR>
+http://topepo.github.io/caret/<BR>
+
+The caret Package - The Model List<BR>
+http://topepo.github.io/caret/modelList.html<BR>
+
 Should I do a PhD?<BR>
 https://www.kaggle.com/owise83/2013-american-community-survey/should-i-do-a-phd<BR>
 
