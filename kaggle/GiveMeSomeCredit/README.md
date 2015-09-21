@@ -1,27 +1,16 @@
-Competition Rules
+## GiveMeSomeCredit
 
-    One account per participant
+ Improve on the state of the art in credit scoring by predicting the probability that somebody will experience financial distress in the next two years.
 
-    You cannot sign up to Kaggle from multiple accounts and therefore you cannot submit from multiple accounts.
-    No private sharing outside teams
+Banks play a crucial role in market economies. They decide who can get finance and on what terms and can make or break investment decisions. For markets and society to function, individuals and companies need access to credit. 
 
-    Privately sharing code or data outside of teams is not permitted. It's okay to share code if made available to all participants on the forums.
-    Team Mergers
+Credit scoring algorithms, which make a guess at the probability of default, are the method banks use to determine whether or not a loan should be granted. This competition requires participants to improve on the state of the art in credit scoring, by predicting the probability that somebody will experience financial distress in the next two years.
 
-    Team mergers are allowed and can be performed by the team leader. In order to merge, the combined team must have a total submission count less than or equal to the maximum allowed as of the merge date. The maximum allowed is the number of submissions per day multiplied by the number of days the competition has been running.
-    Team Limits
+The goal of this competition is to build a model that borrowers can use to help make the best financial decisions.
 
-    There is no maximum team size.
-    Submission Limits
+Historical data are provided on 250,000 borrowers and the prize pool is $5,000 ($3,000 for first, $1,500 for second and $500 for third).
 
-    You may submit a maximum of 2 entries per day.
 
-    You may select up to 5 final submissions for judging.
-
-Competition Timeline
-Start Date: 9/19/2011 12:45:34 PM UTC
-Merger Deadline: None
-First Submission Deadline: None
-End Date: 12/15/2011 11:59:59 PM UTC
+https://www.kaggle.com/c/GiveMeSomeCredit
 
 
